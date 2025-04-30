@@ -14,7 +14,7 @@ class MiRutasApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "Entre paginas routes",
+      title: "Entre Paginas routes",
       initialRoute: '/',
       routes: {
         // When navigating to the "/" route, build the FirstScreen widget.

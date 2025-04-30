@@ -14,7 +14,7 @@ class _PantallacincoState extends State<Pantallacinco> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Pantalla Cinco'), // Added AppBar for context
+        title: const Text('Pantalla CincO'), // Added AppBar for context
       ),
       body: Center(
         child: GestureDetector(

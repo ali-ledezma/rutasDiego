@@ -42,7 +42,7 @@ class PantallaDos extends StatelessWidget {
               onPressed: () {
                 Navigator.pop(context);
               },
-              child: const Text('Regresar!'),
+              child: const Text('RegresaR!'),
             ),
           ),
         ],

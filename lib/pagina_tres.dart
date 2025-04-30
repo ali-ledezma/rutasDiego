@@ -14,7 +14,7 @@ class _PantallaTresState extends State<PantallaTres> {
     return Scaffold(
         appBar: AppBar(
           title: const Text(
-            'Pantalla 3 Ali',
+            'Pantalla 3 ALI',
             style: TextStyle(
               color: Colors.black,
               fontSize: 25,

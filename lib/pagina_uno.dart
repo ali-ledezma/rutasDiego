@@ -8,7 +8,7 @@ class PantallaUno extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'Pantalla Uno',
+          'Pantalla UNO',
           style: TextStyle(
             color: Colors.white,
             fontSize: 25,

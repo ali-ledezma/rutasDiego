@@ -46,7 +46,7 @@ class _PantallacuatroState extends State<Pantallacuatro> {
                 onPressed: () {
                   _showAlertDialog(context); // Extract AlertDialog to a method
                 },
-                child: const Text('Mostrar Alerta'),
+                child: const Text('Mostrar AlertA'),
               ),
             ),
             ElevatedButton(

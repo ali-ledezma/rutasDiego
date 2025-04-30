@@ -32,7 +32,7 @@ class PantallaseisState extends State<Pantallaseis>
     return Scaffold(
       // Added a Scaffold
       appBar: AppBar(
-        title: const Text('Pantalla Seis'), // Added an AppBar
+        title: const Text('Pantalla SEIS'), // Added an AppBar
       ),
       body: Center(
         // Centered the content
